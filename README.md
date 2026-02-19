@@ -26,4 +26,4 @@ This project demonstrates an end-to-end ETL pipeline for retail sales data:
 ### Visualization
 Total sales by product category:
 
-![Total Sales by Product Category](images/sales_by_category.png)
+![Total Sales by Product Category](sales_by_category.png)
