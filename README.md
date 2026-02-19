@@ -58,7 +58,7 @@ etl_sales_pipeline/
 
 Total Sales by Product Category:
 
-![Total Sales by Product Category](https://github.com/Chirasmai/etl_sales_pipeline/raw/main/sales_by_category.png)
+![Total Sales by Product Category](https://github.com/Chirasmai/etl_sales_pipeline/blob/main/etl%20image.png)
 
 ---
 
